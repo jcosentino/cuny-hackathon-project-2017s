@@ -1,0 +1,13 @@
+﻿<Properties StartupItem="Hackathon 2017 - BallInACup.csproj">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\ChainMove.cs">
+    <Files>
+      <File FileName="Assets\DampenVelocity.cs" Line="7" Column="2" />
+      <File FileName="Assets\ChainMove.cs" Line="1" Column="1" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
